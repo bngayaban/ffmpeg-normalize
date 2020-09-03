@@ -36,7 +36,7 @@ var __rest = (this && this.__rest) || function (s, e) {
 };
 exports.__esModule = true;
 var ffmpeg_static_1 = require("ffmpeg-static");
-var ffprobe_static_1 = require("ffprobe-static");
+var ffprobe_static_1 = require("ffprobe-static-download");
 var child = require("child_process");
 var path = require("path");
 var fs = require("fs");
